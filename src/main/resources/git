@@ -1,0 +1,9 @@
+git branch                       --查看本地分
+git branch -r                    --查看本地和远程分支
+git  checkout -b dev             --新建并转到dev
+git status                       --查看git的状态
+git commit -m "dev本地提交"      --本地提交文件
+git remote -v                    --查看远程代码
+git push dev                     --提交dev分支到远程仓库
+
+
